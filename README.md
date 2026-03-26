@@ -16,7 +16,7 @@ This repository contains my Digital Literacy Portfolio for the Student Digital A
 - task-4-email-etiquette : Contains your email writing task and communication scenario demonstrating proper email format and tone.
 - task-5-cybercrime : Includes cybercrime awareness content, prevention checklist, and safety guidelines.
 - README.md : Acts as the overview of your project—includes project description, tasks summary, links (like GitHub/Google Form), and instructions to understand your repository.
-- project_report1.docx : Final compiled report containing all sections (introduction, task write-ups, conclusion, references) in proper format as required for submission.
+- Report Digital Literacy.pdf : Final compiled report containing all sections (introduction, task write-ups, conclusion, references) in proper format as required for submission.
 
 # How to View This Project
 You can explore the project directly on GitHub in any browser. No special software or coding setup is required.
