@@ -1,11 +1,7 @@
 Subject: Application for Summer Internship Opportunity
 Dear Internship Coordinator,
 
-I hope this message finds you well. My name is Shruti Kumari, and I am currently a First Year student pursuing B.Tech CSE Core at Vit Bhopal University.
-I am writing to express my interest in a summer internship opportunity at your organization.
-I am particularly interested in gaining practical experience in Web Development, and I believe that your organization provides an excellent environment for learning and professional growth.
-I have developed foundational skills in HTML, C++ and Python, and I am eager to apply them in a real-world setting.
-I would greatly appreciate the opportunity to contribute and learn as part of your team. Please let me know if there are any available positions or application procedures I should follow.
+I hope this message finds you well. My name is Shruti Kumari, and I am currently a First Year student pursuing B.Tech CSE Core at Vit Bhopal University. I am writing to express my interest in a summer internship opportunity at your organization. I am particularly interested in gaining practical experience in Web Development, and I believe that your organization provides an excellent environment for learning and professional growth. I have developed foundational skills in HTML, C++ and Python, and I am eager to apply them in a real-world setting. I would greatly appreciate the opportunity to contribute and learn as part of your team. Please let me know if there are any available positions or application procedures I should follow.
 
 Thank you for your time and consideration. I look forward to your response.
 
