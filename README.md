@@ -10,12 +10,12 @@
 This repository contains my Digital Literacy Portfolio for the Student Digital Ambassador scenario. It includes five tasks mapped to each module of the course, a structured project report, and supporting artifacts such as screenshots, email drafts, and checklists.
 
 # Repository Structure
-- task-1-presentation : Contains your initial work like introduction, basic content creation, or presentation-related files showing your understanding of digital tools.
-- task-2-portfolio : Includes links/details of your GitHub, LinkedIn, and other profiles created to build your professional online presence.
+- task-1-presentation : Contains initial work like introduction, basic content creation, or presentation-related files showing your understanding of digital tools.
+- task-2-portfolio : Includes links/details of GitHub, LinkedIn, and other profiles created to build professional online presence.
 - task-3-platforms : Holds work done on platforms like Google Forms (quiz), Kaggle, etc., including screenshots and outputs.
-- task-4-email-etiquette : Contains your email writing task and communication scenario demonstrating proper email format and tone.
+- task-4-email-etiquette : Contains email writing task and communication scenario demonstrating proper email format and tone.
 - task-5-cybercrime : Includes cybercrime awareness content, prevention checklist, and safety guidelines.
-- README.md : Acts as the overview of your project—includes project description, tasks summary, links (like GitHub/Google Form), and instructions to understand your repository.
+- README.md : Acts as the overview of project—includes project description, tasks summary, links (like GitHub/Google Form), and instructions to understand repository.
 - Report Digital Literacy.pdf : Final compiled report containing all sections (introduction, task write-ups, conclusion, references) in proper format as required for submission.
 
 # How to View This Project
